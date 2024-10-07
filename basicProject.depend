@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728298763 source:c:\users\user\desktop\c_programing\basicproject\printfscanf.c
+	<stdio.h>
+
+1728300076 source:c:\users\user\desktop\c_programing\basicproject\loop.c
+	<stdio.h>
+
