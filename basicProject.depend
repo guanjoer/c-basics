@@ -1,7 +1,12 @@
 # depslib dependency file v1.0
-1728298763 source:c:\users\user\desktop\c_programing\basicproject\printfscanf.c
+1728310507 source:c:\users\user\desktop\c_programing\basicproject\printfscanf.c
 	<stdio.h>
 
-1728300076 source:c:\users\user\desktop\c_programing\basicproject\loop.c
+1728310866 source:c:\users\user\desktop\c_programing\basicproject\loop.c
 	<stdio.h>
+
+1728312248 source:c:\users\user\desktop\c_programing\basicproject\condition.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
 

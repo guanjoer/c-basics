@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main_loop(void)
 {
 
     // for(선언; 조건; 증감)
