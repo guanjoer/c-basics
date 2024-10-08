@@ -21,7 +21,7 @@ int sub(int num1, int num2);
 int mul(int num1, int num2);
 float div(int num1, int num2);
 
-int main(void)
+int main_function(void)
 {
 //    int num = 7;
 //    p(num);
