@@ -32,7 +32,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="condition.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="loop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printfscanf.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
