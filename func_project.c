@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <time.h>
+#include <windows.h>
 
 
 // 5 stages, mental calculation problem, 3 life per each stage
@@ -7,8 +8,10 @@ int getRandomNumber(int level);
 void displayProblem(int i, int num1, int num2);
 
 
-int main(void)
+int main_funcProject(void)
 {
+    SetConsoleOutputCP(CP_UTF8);
+
     srand(time(NULL)); // Reset random number
     printf("############################################\n");
     printf("[*] 총 5 문제이며, 한 문제 당 기회는 3번 입니다.\n");

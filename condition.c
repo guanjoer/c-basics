@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
+#include <windows.h>
 
 int main_condition(void)
 {
+    SetConsoleOutputCP(CP_UTF8);
     // 조별 발표 / 1 ~ 10조까지 존재 / 하루에 5조까지 발표
 //    for(int i=1; i<=10; i++)
 //    {

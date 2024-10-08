@@ -5,15 +5,22 @@
 1728310866 source:c:\users\user\desktop\c_programing\basicproject\loop.c
 	<stdio.h>
 
-1728316815 source:c:\users\user\desktop\c_programing\basicproject\condition.c
+1728388453 source:c:\users\user\desktop\c_programing\basicproject\condition.c
 	<stdio.h>
 	<time.h>
 	<stdlib.h>
+	<windows.h>
 
 1728381370 source:c:\users\user\desktop\c_programing\basicproject\function.c
 	<stdio.h>
 
-1728385220 source:c:\users\user\desktop\c_programing\basicproject\func_project.c
+1728388463 source:c:\users\user\desktop\c_programing\basicproject\func_project.c
 	<stdio.h>
+	<time.h>
+	<windows.h>
+
+1728404418 source:c:\users\user\desktop\c_programing\basicproject\array.c
+	<stdio.h>
+	<windows.h>
 	<time.h>
 
