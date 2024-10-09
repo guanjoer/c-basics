@@ -32,10 +32,25 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="array.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="condition.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="func_project.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="function.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="loop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pointer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pointerProject.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="printfscanf.c">

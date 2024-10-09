@@ -2,7 +2,7 @@
 #include <windows.h>
 #include <time.h>
 
-int main(void)
+int main_arrayProject(void)
 {
     SetConsoleOutputCP(CP_UTF8);
 
